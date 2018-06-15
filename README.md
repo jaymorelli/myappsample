@@ -1,1 +1,2 @@
-#This is an tuturial by Brad Traversy, I am learning how to use git and github for first time
+#myApp
+this is my app
